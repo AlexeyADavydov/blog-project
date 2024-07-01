@@ -17,7 +17,7 @@ Python, Django, Django ORM, SQLite, Pytest, Unittest, Pillow, Bootstrap, CSS, HT
 
 ### Работающий результат
 
-blogicum.alexeyadavydov.com
+[blogicum.alexeyadavydov.com](https://blogicum.alexeyadavydov.com/)
 
 ### Автор проекта (бэкенд и деплой)
 
